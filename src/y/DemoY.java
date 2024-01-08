@@ -8,10 +8,10 @@ public class DemoY {
 		
 		System.out.println("Trying to Stash");
 		
-	System.out.println("Trying to Pull");
+	   System.out.println("Trying to Pull");
 
 		
-		
+		System.out.println("Trying to push 2");
 		
 		
 		
