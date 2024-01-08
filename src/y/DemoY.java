@@ -6,6 +6,7 @@ public class DemoY {
 		System.out.println("Trying to Push");
 
 		
+		System.out.println("Trying to Stash");
 		
 	System.out.println("Trying to Pull");
 
